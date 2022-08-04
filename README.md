@@ -1,2 +1,2 @@
 # stepik_aqa_python
-Homeworks
+Homeworks for Stepik python AQA course https://stepik.org/course/575/syllabus
